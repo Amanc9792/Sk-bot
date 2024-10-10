@@ -1,8 +1,8 @@
 import aiohttp
 import random
 
-sk_array = ['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']
-pk_array = ['pk_live_51H7oosHIrwomVcexknp1XxS0WEUO6Onx1fqgnEGK4sHOunRX7Od7e7SvlbUQWsqG3ZDid3abGPLyHOT4PsTSlcSe00SrgvLqBc']
+sk_array = ['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']
+pk_array = ['pk_live_51PBixTRoZZkGwFK6C2YcEM1AU1gdr7JqiFkjWPe6AqmflSCCRl8Mmit3Bhpt18b6EGa52W4wCURZDpEIhkWQRraD00oov1prsH']
 
 sk = random.choice(sk_array)
 pk = random.choice(pk_array)
