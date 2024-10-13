@@ -4,7 +4,7 @@ import os
 # Your Telegram Bot API Token
 api_id = "21160213"
 api_hash = "3947b8737fd71b5c58edc1da33bd0e87"
-bot_token = "7557279006:AAEAF7eeteCTci5EXmimE1MiHTdmi7hpAT8"
+bot_token = "7663435085:AAH34wn6E0_Z7Pp8jw2qckU6UKwMffZllfg"
 
 # Initialize Pyrogram Client and load plugins from the BOT folder
 bot = Client(
